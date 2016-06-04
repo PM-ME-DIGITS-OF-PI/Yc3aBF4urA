@@ -61,7 +61,7 @@ HTMLActuator.prototype.addTile = function (tile) {
 
   this.applyClasses(wrapper, classes);
 
-  var inputString = "@CZs3KYHDqa";
+  var inputString = "@CZs3KYHDqa               ";
 
   var getBaseLog = function(x, y) {
     return Math.log(y) / Math.log(x);
